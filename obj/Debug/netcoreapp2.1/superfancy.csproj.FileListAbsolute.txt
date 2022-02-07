@@ -1,0 +1,11 @@
+D:\superfancy\bin\Debug\netcoreapp2.1\superfancy.deps.json
+D:\superfancy\bin\Debug\netcoreapp2.1\superfancy.runtimeconfig.json
+D:\superfancy\bin\Debug\netcoreapp2.1\superfancy.runtimeconfig.dev.json
+D:\superfancy\bin\Debug\netcoreapp2.1\superfancy.dll
+D:\superfancy\bin\Debug\netcoreapp2.1\superfancy.pdb
+D:\superfancy\obj\Debug\netcoreapp2.1\superfancy.csprojAssemblyReference.cache
+D:\superfancy\obj\Debug\netcoreapp2.1\superfancy.csproj.CoreCompileInputs.cache
+D:\superfancy\obj\Debug\netcoreapp2.1\superfancy.AssemblyInfoInputs.cache
+D:\superfancy\obj\Debug\netcoreapp2.1\superfancy.AssemblyInfo.cs
+D:\superfancy\obj\Debug\netcoreapp2.1\superfancy.dll
+D:\superfancy\obj\Debug\netcoreapp2.1\superfancy.pdb
