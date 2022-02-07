@@ -1,0 +1,11 @@
+D:\VS19\SecondProject\SecondProject\bin\Debug\netcoreapp2.1\SecondProject.deps.json
+D:\VS19\SecondProject\SecondProject\bin\Debug\netcoreapp2.1\SecondProject.runtimeconfig.json
+D:\VS19\SecondProject\SecondProject\bin\Debug\netcoreapp2.1\SecondProject.runtimeconfig.dev.json
+D:\VS19\SecondProject\SecondProject\bin\Debug\netcoreapp2.1\SecondProject.dll
+D:\VS19\SecondProject\SecondProject\bin\Debug\netcoreapp2.1\SecondProject.pdb
+D:\VS19\SecondProject\SecondProject\obj\Debug\netcoreapp2.1\SecondProject.csprojAssemblyReference.cache
+D:\VS19\SecondProject\SecondProject\obj\Debug\netcoreapp2.1\SecondProject.csproj.CoreCompileInputs.cache
+D:\VS19\SecondProject\SecondProject\obj\Debug\netcoreapp2.1\SecondProject.AssemblyInfoInputs.cache
+D:\VS19\SecondProject\SecondProject\obj\Debug\netcoreapp2.1\SecondProject.AssemblyInfo.cs
+D:\VS19\SecondProject\SecondProject\obj\Debug\netcoreapp2.1\SecondProject.dll
+D:\VS19\SecondProject\SecondProject\obj\Debug\netcoreapp2.1\SecondProject.pdb
